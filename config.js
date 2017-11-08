@@ -90,7 +90,7 @@
 		// "on" = ENABLE BULLET NAVIGATION
 		// "off" = DISABLE BULLET NAVIGATION
 		
-		var option_overlay_bullet_navigation = "on";
+		var option_overlay_bullet_navigation = "off";
 	
 	
 	
