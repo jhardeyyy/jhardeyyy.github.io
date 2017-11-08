@@ -133,7 +133,7 @@ var option_hero_gravity_effect = "on";
 // "glitch" = GLITCH BACKGROUND
 // "custom" = CUSTOM BACKGROUND
 
-var option_hero_background_mode = "space";
+var option_hero_background_mode = "sphere";
 
 
 
